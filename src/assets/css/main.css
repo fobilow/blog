@@ -12,6 +12,11 @@ body {
   margin: 0 0 0 10px;
 }
 
+.header a {
+  text-decoration: none;
+  color: #000;
+}
+
 .row {
   padding: 10px;
 }
